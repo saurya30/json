@@ -4,23 +4,32 @@
       "id": 1,
       "products": [
         {
-          "id": 46,
-          "title": "Plant Pot",
-          "price": 14.99,
-          "quantity": 4,
-          "discountPercentage": 17.65,
-          "discountedTotal": 49.38,
-          "thumbnail": "..."
+          "id": 101,
+          "title": "Wireless Mouse",
+          "price": 25.50,
+          "quantity": 2,
+          "discountPercentage": 10,
+          "discountedTotal": 45.90,
+          "thumbnail": "https://via.placeholder.com/150/92c952"
+        },
+        {
+          "id": 102,
+          "title": "Mechanical Keyboard",
+          "price": 75.00,
+          "quantity": 1,
+          "discountPercentage": 15,
+          "discountedTotal": 63.75,
+          "thumbnail": "https://via.placeholder.com/150/771796"
         }
       ],
-      "total": 128249.07,
-      "discountedTotal": 118740.76,
-      "userId": 177,
-      "totalProducts": 4,
-      "totalQuantity": 13
+      "total": 100.50,
+      "discountedTotal": 90.00,
+      "userId": 1,
+      "totalProducts": 2,
+      "totalQuantity": 3
     }
   ],
-  "total": 50,
+  "total": 1,
   "skip": 0,
   "limit": 30
 }
