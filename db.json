@@ -1,35 +1,24 @@
 {
   "carts": [
     {
-      "id": 1,
       "products": [
         {
-          "id": 101,
-          "title": "Wireless Mouse",
-          "price": 25.50,
-          "quantity": 2,
+          "title": "Apple",
+          "price": 2,
+          "quantity": 5,
           "discountPercentage": 10,
-          "discountedTotal": 45.90,
+          "discountedTotal": 9,
           "thumbnail": "https://via.placeholder.com/150/92c952"
         },
         {
-          "id": 102,
-          "title": "Mechanical Keyboard",
-          "price": 75.00,
-          "quantity": 1,
-          "discountPercentage": 15,
-          "discountedTotal": 63.75,
+          "title": "Banana",
+          "price": 1,
+          "quantity": 10,
+          "discountPercentage": 5,
+          "discountedTotal": 9.5,
           "thumbnail": "https://via.placeholder.com/150/771796"
         }
-      ],
-      "total": 100.50,
-      "discountedTotal": 90.00,
-      "userId": 1,
-      "totalProducts": 2,
-      "totalQuantity": 3
+      ]
     }
-  ],
-  "total": 1,
-  "skip": 0,
-  "limit": 30
+  ]
 }
