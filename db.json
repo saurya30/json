@@ -1,12 +1,12 @@
+{
+  "products": [
     {
-      "products": [
-        {
-          "title": "Apple",
-          "price": "two",
-        },
-        {
-          "title": "Banana",
-          "price": "one",
-        }
-      ]
+      "title": "Apple",
+      "price": "two"
+    },
+    {
+      "title": "Banana",
+      "price": "one"
     }
+  ]
+}
